@@ -1,2 +1,2 @@
 # photo-blog
-ai web project with chatGPT
+AI web project with chatGPT
